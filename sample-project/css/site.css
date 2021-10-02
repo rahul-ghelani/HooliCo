@@ -6,7 +6,7 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Segoe UI";
+            font-family: "Arial";
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
